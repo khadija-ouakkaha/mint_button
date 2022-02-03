@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa399a0049a73d718bf681f011552461bae761c49",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xa399a0049a73d718bf681f011552461bae761c49",
+  "NETWORK": {
+    "NAME": "Matic Mumbai",
+    "SYMBOL": "MATIC",
+    "ID": 80001
+  },
+  "NFT_NAME": "The Stripes NFT",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 40,
+  "WEI_COST": 400,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/khadija",
+  "SHOW_BACKGROUND": true
+}
